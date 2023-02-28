@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Algorithm visualization with Flutter & Dart 
 
 This project aims to visualize different algorithms using Flutter in & Dart. Starting from path finding algorithms, but wishing to go further to arrays, trees, graphs... 
