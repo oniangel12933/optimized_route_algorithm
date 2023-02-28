@@ -4,6 +4,8 @@ This project aims to visualize different algorithms using Flutter in & Dart. Sta
 
 Feel free to contribute by opening some PR's :fire:
 
+<img src="https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/dijkstra.gif" height="250px" width="250px">
+
 ![](https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/dijkstra.gif)
 ![](https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/a_star.gif)
 ![](https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/maze.gif)
