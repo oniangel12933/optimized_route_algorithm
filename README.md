@@ -1,17 +1,15 @@
+
 <div align="center">
 
 ## Algorithm visualization with Flutter & Dart 
 
 This project aims to visualize different algorithms using Flutter in & Dart. Starting from path finding algorithms, but wishing to go further to arrays, trees, graphs... 
 
-Feel free to contribute by opening some PR's :fire:
+</div>
 
-<img align="right" alt="Developer Usama Sarwar" src="assets/maze.gif" width="300"/>
+<img align="center" alt="Developer Usama Sarwar" src="assets/maze.gif" width="300"/>
 
-
-
-# Ideas :sparkles:
-
+  <div align="flex-start">
 - :white_check_mark: Add time control, to increase/decrease time step
 - :white_check_mark: Enable/disable diagonal nodes
 - :white_check_mark: DFS/BFS
@@ -19,4 +17,4 @@ Feel free to contribute by opening some PR's :fire:
 - :white_square_button: Impmenent sorting of nodes with heap rather then sorting a list for Dijkstra/A*
 - :white_check_mark: Maze generator
 
-
+</div>
