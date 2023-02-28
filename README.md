@@ -4,19 +4,11 @@ This project aims to visualize different algorithms using Flutter in & Dart. Sta
 
 Feel free to contribute by opening some PR's :fire:
 
-![](https://github.com/igniti0n/flutter_algorithms_visualization/blob/main/assets/dijkstra.gif)
-![](https://github.com/igniti0n/flutter_algorithms_visualization/blob/main/assets/a_star.gif)
-![](https://github.com/igniti0n/flutter_algorithms_visualization/blob/main/assets/maze.gif)
+![](https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/dijkstra.gif)
+![](https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/a_star.gif)
+![](https://github.com/oniangel12933/optimized_route_algorithm/blob/main/assets/maze.gif)
 
-# Learning
 
-Dijkstra's algorithm explained, with the help of this visualization project 
-
-[https://github.com/igniti0n/flutter_algorithms_visualization](https://medium.com/p/32b73722406a)
-
-A* algorithm explained
-
-https://www.youtube.com/watch?v=ySN5Wnu88nE
 
 # Ideas :sparkles:
 
